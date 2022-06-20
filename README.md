@@ -22,4 +22,4 @@
 
 ## Completed Milestones
 - 4th April 2022 - DRAFT IDEA - Concept and idea was built.
-- 8th June 2022 - PANCAKESWAP LIQUIDITY ADDED - Add liquidity KIRIS/BNB to Pancakeswap. Initial price is 0.059$/KIRIS. Market capital raised to 11,600,000$.
+- 8th June 2022 - PANCAKESWAP LIQUIDITY ADDED - Add liquidity KIRIS/BNB to Pancakeswap. Initial price is 0.059USD per KIRIS. Market capital raised to 11,600,000USD.
